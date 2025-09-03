@@ -57,7 +57,7 @@ python scripts/04_statistics.py
 
 Please cite the following reference when using or modifying any data and routines from this repository:
 
-- Oderiz, I., Losada, I.J., & Hinkel, J. (2026). *Global hotspots of unprecedented tropical cyclone risk for targeted adaptation*. [Journal / Publisher â€” To be updated].  
+- Oderiz, I., Losada, I.J., & Hinkel, J. (2026). *Global hotspots of unprecedented tropical cyclone risk for targeted adaptation*.   
 
 ---
 

@@ -9,21 +9,20 @@ Results of these codes can be found in [ADD PUBLICATION OR DATA REPOSITORY LINK]
 ## Folder Structure
 
 ### `1_Hazard/return_periods`
-- Contains shapefiles of return periods for each historical dataset and GCM, which serve as the base data to calculate **TC3 hazard**.
-- Includes classified administrative regions in TC regions.
+- This folder should contains shapefiles of return periods for each historical dataset and GCM, which serve as the base data to calculate **TC3 hazard**.
 
 ### `2_Exposure/`
-- Exposure datasets of **coastal population in 2020**, plus population growth projections under the **SSP5 scenario (2020â€“2050)**.
+- This folder shoudll contains Exposure datasets of **coastal population in 2020**, plus population growth projections under the **SSP5 scenario (2020â€“2050)**.
 
 ### `3_Adaptive_Capacity/`
-- Contains **adaptive capacity (AC) indicators**.
+- This fodler should contains **adaptive capacity (AC) indicators**.
 
 ### `scripts/`
 Python scripts for different steps of the workflow:
-- **`01_hazard_individual_gcm.py`** â†’ Processes hazard outputs from individual GCMs (Global Climate Models).  
-- **`02_hazard_ensemble.py`** â†’ Combines hazard information across multiple GCMs into an ensemble product.  
-- **`03_TC3_risk.py`** â†’ Estimates risk from tropical cyclones (Category 3 and above).  
-- **`04_statistics.py`** â†’ Runs statistical analyses (uncertainty quantification, correlation, significance testing).  
+- **`01_hazard_individual_gcm.py`** Processes hazard outputs from individual GCMs (Global Climate Models).  
+- **`02_hazard_ensemble.py`** Combines hazard information across multiple GCMs into an ensemble product.  
+- **`03_TC3_risk.py`** Estimates risk from tropical cyclones (Category 3 and above).  
+- **`04_statistics.py`** Runs statistical analyses (uncertainty quantification, correlation, significance testing).  
 
 ---
 

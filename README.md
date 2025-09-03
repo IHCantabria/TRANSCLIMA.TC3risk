@@ -12,7 +12,7 @@ Results of these codes can be found in [ADD PUBLICATION OR DATA REPOSITORY LINK]
 - This folder should contains shapefiles of return periods for each historical dataset and GCM, which serve as the base data to calculate **TC3 hazard**.
 
 ### `2_Exposure/`
-- This folder shoudll contains Exposure datasets of **coastal population in 2020**, plus population growth projections under the **SSP5 scenario (2020â€“2050)**.
+- This folder should contains Exposure datasets of **coastal population in 2020**, plus population growth projections under the **SSP5 scenario (2020 a 2050)**.
 
 ### `3_Adaptive_Capacity/`
 - This fodler should contains **adaptive capacity (AC) indicators**.

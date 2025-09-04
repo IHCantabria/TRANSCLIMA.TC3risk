@@ -2,7 +2,7 @@
 
 This repository contains scripts and data structures to assess **future tropical cyclone risk under climate change**.  
 
-Results of these codes can be found in [ADD PUBLICATION OR DATA REPOSITORY LINK].
+Results of these codes can be found in https://zenodo.org/records/16793943.
 
 ---
 
